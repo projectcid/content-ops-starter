@@ -3,7 +3,7 @@ title: nipte.com
 slug: /
 sections:
   - title:
-      text: Unlock the potential of nipte.com
+      text: drop an email projectcid@outlook.com
       color: text-dark
       styles:
         self:
