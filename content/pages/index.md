@@ -689,11 +689,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      A premium, short, and memorable domain name. Perfect for innovation,
+      education, or technology ventures. Establish a strong digital presence,
+      enhance credibility, and attract global audiences. Make your vision stand
+      out with this versatile web address.
+
+
     media:
       fields:
         - name: name
