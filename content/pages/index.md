@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Unlock The Potential of nipte.com
+    subtitle: Unlock the potential of nipte.com
     text: >+
       <div style="text-align: center">A premium, short, and memorable domain
       name. 
