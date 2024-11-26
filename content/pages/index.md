@@ -3,7 +3,7 @@ title: nipte.com
 slug: /
 sections:
   - title:
-      text: Grow your business 10x faster
+      text: Unlock the potential of nipte.com
       color: text-dark
       styles:
         self:
