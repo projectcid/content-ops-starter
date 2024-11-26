@@ -28,6 +28,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+      text:
+        textAlign: center
     type: GenericSection
 seo:
   metaTitle: nipte.com
