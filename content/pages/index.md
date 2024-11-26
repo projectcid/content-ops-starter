@@ -10,11 +10,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Unlock The Potential of nipte.com
-    text: >
-      A premium, short, and memorable domain name. Perfect for innovation,
-      education, or technology ventures. Establish a strong digital presence,
-      enhance credibility, and attract global audiences. Make your vision stand
-      out with this versatile web address.
+    text: >+
+      <div style="text-align: center">A premium, short, and memorable domain
+      name. 
+
+      Perfect for innovation, education, or technology ventures. 
+
+      Establish a strong digital presence, enhance credibility, and attract
+      global audiences. 
+
+      Make your vision stand out with this versatile web address.</div>
+
     colors: bg-light-fg-dark
     styles:
       self:
