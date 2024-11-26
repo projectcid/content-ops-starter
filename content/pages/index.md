@@ -54,7 +54,7 @@ sections:
       text: Drop a message
       color: text-dark
       type: TitleBlock
-    subtitle: 'Unlock the potential of nipte.com '
+    subtitle: Unlock the potential of nipte.com
     text: >+
       A premium, short, and memorable domain name. Perfect for innovation,
       education, or technology ventures. Establish a strong digital presence,
