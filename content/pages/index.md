@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: drop an email projectcidoutlook.com
+    subtitle: Unlock The Potential of nipte.com
     text: >
       A premium, short, and memorable domain name. Perfect for innovation,
       education, or technology ventures. Establish a strong digital presence,
