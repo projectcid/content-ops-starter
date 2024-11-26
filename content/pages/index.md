@@ -685,7 +685,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: ''
+      text: Drop a message
       color: text-dark
       type: TitleBlock
     subtitle: 'Unlock the potential of nipte.com '
