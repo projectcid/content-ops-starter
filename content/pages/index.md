@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: drop  an email projectcid@outlook.com for bids
+    subtitle: 'drop  an email [projectcid]@outlook.com for bids'
     text: >+
       <div style="text-align: center">A premium, short, and memorable domain
       name. 
