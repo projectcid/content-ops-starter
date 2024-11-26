@@ -1,5 +1,5 @@
 ---
-title: Home
+title: nipte.com
 slug: /
 sections:
   - type: GenericSection
