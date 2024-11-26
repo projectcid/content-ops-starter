@@ -747,7 +747,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: nipte.com
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: This homepage for nipte.com
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
