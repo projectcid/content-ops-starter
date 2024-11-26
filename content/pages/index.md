@@ -748,7 +748,7 @@ sections:
 seo:
   metaTitle: nipte.com
   metaDescription: This homepage for nipte.com
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/5ABD3DE7-4133-4E04-8DF4-5E246F913688.jpeg
   type: Seo
 type: PageLayout
 ---
