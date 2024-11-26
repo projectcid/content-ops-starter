@@ -20,15 +20,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "nipte.com",
-            "altText": "nipte",
-            "url": "nipte.com",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],
