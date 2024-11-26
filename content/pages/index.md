@@ -23,67 +23,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - title:
-      text: Drop a message
-      color: text-dark
-      type: TitleBlock
-    subtitle: Unlock the potential of nipte.com
-    text: >+
-      A premium, short, and memorable domain name. Perfect for innovation,
-      education, or technology ventures. Establish a strong digital presence,
-      enhance credibility, and attract global audiences. Make your vision stand
-      out with this versatile web address.
-
-
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: nipte.com
   metaDescription: This homepage for nipte.com
