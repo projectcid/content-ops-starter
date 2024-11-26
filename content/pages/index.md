@@ -688,7 +688,7 @@ sections:
       text: Interested to Buy nipte.com
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: 'Unlock the potential of nipte.com '
     text: >+
       A premium, short, and memorable domain name. Perfect for innovation,
       education, or technology ventures. Establish a strong digital presence,
