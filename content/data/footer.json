@@ -61,7 +61,7 @@
     },
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Powered by Netlify Create(https://www.netlify.com/platform/create/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
